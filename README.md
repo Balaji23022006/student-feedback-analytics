@@ -1,6 +1,8 @@
 # 🎓 SMART-LEARN: Student Recommendation Dashboard
 
-🔗 Live Demo: student-feedback-analytics.streamlit.app
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-feedback-analytics.streamlit.app/)
+
+🔗 **Live Demo:** [student-feedback-analytics.streamlit.app](https://student-feedback-analytics.streamlit.app/)
 
 An AI-powered Streamlit dashboard that analyzes student course feedback and predicts whether a student would **recommend a course**. It uses an **XGBoost** classifier and explains every prediction with **SHAP**, helping instructors identify strengths and areas for improvement in learning quality.
 
