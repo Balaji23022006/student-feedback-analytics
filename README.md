@@ -1,5 +1,7 @@
 # 🎓 SMART-LEARN: Student Recommendation Dashboard
 
+🔗 Live Demo: student-feedback-analytics.streamlit.app
+
 An AI-powered Streamlit dashboard that analyzes student course feedback and predicts whether a student would **recommend a course**. It uses an **XGBoost** classifier and explains every prediction with **SHAP**, helping instructors identify strengths and areas for improvement in learning quality.
 
 ## ✨ Features
@@ -51,8 +53,8 @@ Target column: `recommend` (0 = will not recommend, 1 = will recommend).
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<Balaji23022006>/<student-feedback-analytics>.git
+cd <student-feedback-analytics>
 ```
 
 ### 2. Create a virtual environment (recommended)
