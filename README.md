@@ -89,16 +89,5 @@ The output adds `Recommendation` and `Satisfaction (%)` columns and can be downl
 
 Python · Streamlit · XGBoost · scikit-learn · SHAP · Plotly · Matplotlib · Seaborn · Pandas · Joblib
 
-## 👨‍💻 Team
 
-| Name | Role |
-|------|------|
-| Balaji | Team Leader |
-| Hemanth Kumar | Model Developer |
-| Narender | Technical Support |
-| Guruprasanth | Data Analyst |
-| Mohammed Iman | UI Designer |
 
-## 📄 License
-
-This project is for academic purposes. Add a license (e.g. MIT) if you want others to reuse it.
