@@ -44,10 +44,7 @@ Target column: `recommend` (0 = will not recommend, 1 = will recommend).
 ├── app.py                          # Streamlit application
 ├── xgboost_recommend_model.pkl     # Trained XGBoost model
 ├── dataset faml project.csv        # Training dataset
-├── requirements.txt                # Python dependencies
-├── docs/
-│   ├── faiml_ppt.pptx              # Project presentation
-│   └── ilovepdf_merged.pdf         # Dashboard screenshots
+├── requirements.txt                # Python dependencies         
 └── README.md
 ```
 
